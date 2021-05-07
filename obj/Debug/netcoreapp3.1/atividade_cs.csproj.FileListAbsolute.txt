@@ -1,0 +1,13 @@
+C:\Users\dinhu\OneDrive\Área de Trabalho\atividade_cs\bin\Debug\netcoreapp3.1\atividade_cs.exe
+C:\Users\dinhu\OneDrive\Área de Trabalho\atividade_cs\bin\Debug\netcoreapp3.1\atividade_cs.deps.json
+C:\Users\dinhu\OneDrive\Área de Trabalho\atividade_cs\bin\Debug\netcoreapp3.1\atividade_cs.runtimeconfig.json
+C:\Users\dinhu\OneDrive\Área de Trabalho\atividade_cs\bin\Debug\netcoreapp3.1\atividade_cs.runtimeconfig.dev.json
+C:\Users\dinhu\OneDrive\Área de Trabalho\atividade_cs\bin\Debug\netcoreapp3.1\atividade_cs.dll
+C:\Users\dinhu\OneDrive\Área de Trabalho\atividade_cs\bin\Debug\netcoreapp3.1\atividade_cs.pdb
+C:\Users\dinhu\OneDrive\Área de Trabalho\atividade_cs\obj\Debug\netcoreapp3.1\atividade_cs.csprojAssemblyReference.cache
+C:\Users\dinhu\OneDrive\Área de Trabalho\atividade_cs\obj\Debug\netcoreapp3.1\atividade_cs.AssemblyInfoInputs.cache
+C:\Users\dinhu\OneDrive\Área de Trabalho\atividade_cs\obj\Debug\netcoreapp3.1\atividade_cs.AssemblyInfo.cs
+C:\Users\dinhu\OneDrive\Área de Trabalho\atividade_cs\obj\Debug\netcoreapp3.1\atividade_cs.csproj.CoreCompileInputs.cache
+C:\Users\dinhu\OneDrive\Área de Trabalho\atividade_cs\obj\Debug\netcoreapp3.1\atividade_cs.dll
+C:\Users\dinhu\OneDrive\Área de Trabalho\atividade_cs\obj\Debug\netcoreapp3.1\atividade_cs.pdb
+C:\Users\dinhu\OneDrive\Área de Trabalho\atividade_cs\obj\Debug\netcoreapp3.1\atividade_cs.genruntimeconfig.cache

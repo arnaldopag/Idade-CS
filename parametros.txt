@@ -1,0 +1,4 @@
+nome:
+data-nascimento: 
+if idade < 18 nome + idade
+else idade + nome
